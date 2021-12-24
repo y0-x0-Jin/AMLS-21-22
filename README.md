@@ -1,7 +1,10 @@
 # AMLS-21-22
-Classifies to identify whether there is a tumor in the MRI image and to identify the type of tumor
+These are classifies to identify whether there is a tumor in the MRI image and to identify the type of tumor
 
-Download link of essential data is put in the text file 'data'.
+Task A is for identifying whether there is tumor in the MRI scan of human brain.
+Task B is for identifying type of tumor.
+
+Download link of essential data is put in the text file 'data.txt'.
 
 The file 'dataset' needs to be download and paths of file 'image' and excel file 'label.csv' need to be put into code.
 
